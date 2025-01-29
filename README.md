@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer & data analyst with a keen interest in building scalable and efficient applications, and creating competent dashboards and data insights. I enjoy working with various programming languages and technologies to solve real-world problems.
+I'm a passionate software developer & data analyst with a keen interest in building scalable and efficient applications and creating competent dashboards and data insights. I enjoy working with various programming languages and technologies to solve real-world problems.
 
 - 🔭 I’m currently working on upskilling and being tech-savvy.
 - 🌱 I’m currently learning web development with Python and ML/AI.
