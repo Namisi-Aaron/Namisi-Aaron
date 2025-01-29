@@ -1,4 +1,4 @@
-# Hi there, I'm Aaron Namisi 👋
+# Hi there, I'm Namisi 👋
 
 ## About Me
 
