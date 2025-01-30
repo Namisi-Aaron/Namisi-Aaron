@@ -25,5 +25,5 @@ I'm a passionate software developer & data analyst with a keen interest in build
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/namisi-aaron/)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x)](https://x.com/Aaron33940609)
