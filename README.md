@@ -12,6 +12,9 @@ I'm a passionate software developer & data analyst with a keen interest in build
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
