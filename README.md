@@ -19,10 +19,6 @@ I'm a passionate software developer & data analyst with a keen interest in build
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
 
-## GitHub Stats
-
-![Namisi-Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namisi-Aaron&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/namisi-aaron/)
